@@ -1,0 +1,15 @@
+# Dependencies & environments
+__pycache__/
+*.pyc
+
+# Local cache & intermediate OCR files
+tools/cache/
+tools/raw/
+*.log
+*.tmp
+
+# System & IDE files
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
